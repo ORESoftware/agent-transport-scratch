@@ -1,0 +1,445 @@
+phase	repo	status	sha	pr	branch	restored	note	refs
+scaffold	agent-pontifex/agent-sdk.rs	PUSHED	3a88ca3c					
+scaffold	agent-pontifex/ai-agent-bridge.rs	PUSHED	3bff8a3d					
+scaffold	agent-pontifex/ai-agent-coordinator.rs	PUSHED	14a2bdae					
+scaffold	anticaptrad/act-ai-server.ts	PUSHED	e37e06aa					
+scaffold	anticaptrad/act-api-server.rs	PUSHED	2f408dca					
+scaffold	anticaptrad/act-e2e	PUSHED	a5c47351					
+scaffold	anticaptrad/act-infra	PUSHED	3e5162a5					
+scaffold	anticaptrad/act-mcp-server.rs	PUSHED	4e732311					
+scaffold	anticaptrad/act-sync	PUSHED	273137e5					
+scaffold	anticaptrad/act-web-server.rs	PUSHED	0a1934a7					
+scaffold	apostille-me/apme-api	PUSHED	c466ed0f					
+scaffold	apostille-me/apme-cli	PUSHED	df9b1656					
+scaffold	apostille-me/apme-infra	PUSHED	f211d782					
+scaffold	apostille-me/apme-monorepo	PUSHED	991e932b					
+scaffold	apostille-me/apme-sync	PUSHED	ba93504d					
+scaffold	apostille-me/apme-web-dioxus	PUSHED	b1ad9314					
+scaffold	apostille-me/apme-web-leptos	PUSHED	1550a7da					
+scaffold	apostille-me/apme-web-mash	PUSHED	f5192af5					
+scaffold	athlet-o/athleto-app-rs	PUSHED	b659a1dd					
+scaffold	canonical-cloud/canonical-api-server.rs	PUSHED	28183ac6					
+scaffold	canonical-cloud/canonical-monorepo	PUSHED	e43e1415					
+scaffold	canonical-cloud/canonical.cloud	PUSHED	377aa5b7					
+scaffold	cliptown/cliptown-infra	PUSHED	caa2f1d6					
+scaffold	cliptown/cliptown-monorepo	PUSHED	b31123fc					
+scaffold	cliptown/cliptown-rust-backend.rs	PUSHED	14dcc150					
+scaffold	discrete-event-systems/des-web.rs	PUSHED	e9105c0f					
+scaffold	embedded-alerts/eal-cli	PUSHED	b20dc2b4					
+scaffold	embedded-alerts/eal-dioxus-web	PUSHED	a9c98c5d					
+scaffold	embedded-alerts/eal-infra	PUSHED	d7b4159d					
+scaffold	embedded-alerts/eal-leptos-web	PUSHED	9e2c857e					
+scaffold	embedded-alerts/eal-mash-web	PUSHED	abc1315e					
+scaffold	embedded-alerts/eal-monorepo	PUSHED	84ee35eb					
+scaffold	embedded-alerts/eal-sync	PUSHED	35d79862					
+scaffold	evento-globolo/evgl-api	PUSHED	a253c2e5					
+scaffold	evento-globolo/evgl-cli	PUSHED	90c2fe3a					
+scaffold	evento-globolo/evgl-dioxus-web	PUSHED	7c211454					
+scaffold	evento-globolo/evgl-infra	PUSHED	9b2d570f					
+scaffold	evento-globolo/evgl-leptos-web	PUSHED	8cd89afc					
+scaffold	evento-globolo/evgl-mash-web	PUSHED	b0f45433					
+scaffold	evento-globolo/evgl-monorepo	PUSHED	95ffd11a					
+scaffold	evento-globolo/evgl-sync	PUSHED	d5571347					
+scaffold	fanwaave/push-notification-server.rs	PUSHED	7502a17c					
+scaffold	file-tunnel/ftnl-backend-api.rs	PUSHED	4119a894					
+scaffold	file-tunnel/ftnl-cli	PUSHED	648cee9c					
+scaffold	file-tunnel/ftnl-desktop-app.rs	PUSHED	36ed7def					
+scaffold	file-tunnel/ftnl-e2e	PUSHED	fe6ad6cb					
+scaffold	file-tunnel/ftnl-monorepo	PUSHED	2ec588fc					
+scaffold	file-tunnel/ftnl-sync	PUSHED	175e3756					
+scaffold	file-tunnel/ftnl-web-server.rs	PUSHED	47a19d95					
+scaffold	hacker-house-medellin/hhm-api	PUSHED	a0269f0a					
+scaffold	hacker-house-medellin/hhm-cli	PUSHED	baa5bc46					
+scaffold	hacker-house-medellin/hhm-dioxus-web	PUSHED	998af216					
+scaffold	hacker-house-medellin/hhm-infra	PUSHED	97432b32					
+scaffold	hacker-house-medellin/hhm-leptos-web	PUSHED	2ed8c740					
+scaffold	hacker-house-medellin/hhm-mash-web	PUSHED	304f64ee					
+scaffold	hacker-house-medellin/hhm-monorepo	PUSHED	066464e4					
+scaffold	hacker-house-medellin/hhm-sync	PUSHED	f939b435					
+scaffold	led-dynamo/leddy-api-server.rs	PUSHED	33153f41					
+scaffold	led-dynamo/leddy-e2e	PUSHED	94218031					
+scaffold	led-dynamo/leddy-infra	PUSHED	df7363ff					
+scaffold	led-dynamo/leddy-web-server.rs	PUSHED	5cdd20ac					
+scaffold	opto-sync/opto-sync-e2e	PUSHED	caed9f75					
+scaffold	opto-sync/syncer.rs	PUSHED	946e23b0					
+scaffold	ores-otel/ores-lib-core	PUSHED	0a8d1eaa					
+scaffold	ores-otel/ores.otel.log	PUSHED	a5785f42					
+scaffold	quaestor-ledger/quaestor-ledger-e2e	PUSHED	fb575955					
+scaffold	canonical-cloud/canonical-mcp-server.rs	PR		https://github.com/canonical-cloud/canonical-mcp-server.rs/pull/33				
+scaffold	canonical-cloud/canonical-web-server.rs	PR		https://github.com/canonical-cloud/canonical-web-server.rs/pull/77				
+scaffold	discrete-event-systems/des-mcp-server.rs	PR		https://github.com/discrete-event-systems/des-mcp-server.rs/pull/30				
+scaffold	gha-indie-worker/gha-clone-server.rs	PR		https://github.com/gha-indie-worker/gha-clone-server.rs/pull/8				
+scaffold	gha-indie-worker/gha-indie-worker.rs	PR		https://github.com/gha-indie-worker/gha-indie-worker.rs/pull/33				
+scaffold	meta-agents-demo/meta-agent-control-plane.rs	PR		https://github.com/meta-agents-demo/meta-agent-control-plane.rs/pull/53				
+scaffold	meta-agents-demo/meta-agents-server.rs	PR		https://github.com/meta-agents-demo/meta-agents-server.rs/pull/6				
+scaffold	embedded-alerts/eal-api	PUSHED	9fd0113					
+scaffold	evento-globolo/evgl-api	PUSHED	2e751632		main			
+scaffold	evento-globolo/evgl-dioxus-web	PUSHED	b748e1f3		main			
+scaffold	evento-globolo/evgl-leptos-web	PUSHED	c5787789		main			
+scaffold	evento-globolo/evgl-mash-web	PUSHED	dfbe1de1		main			
+scaffold	StreemPilot/sp-api	PUSHED	709cbd77		main			
+scaffold	StreemPilot/sp-cli	PUSHED	bfc934b3		main			
+scaffold	StreemPilot/sp-infra	PUSHED	15e84676		main			
+scaffold	StreemPilot/sp-sync	PUSHED	b8907e67		main			
+scaffold	StreemPilot/sp-web-mash	PUSHED	c9d99aba		main			
+scaffold	StreemPilot/streempilot-api-server.rs	PUSHED	5500bf37		main			
+scaffold	StreemPilot/streempilot-chat.rs	PUSHED	6b974e5b		main			
+scaffold	StreemPilot/streempilot-cli.rs	PUSHED	95f911f5		main			
+scaffold	StreemPilot/streempilot-e2e	PUSHED	098e6c85		main			
+scaffold	StreemPilot/streempilot-media-router.rs	PUSHED	99ac952c		main			
+scaffold	StreemPilot/streempilot-monorepo	PUSHED	2b183148		main			
+scaffold	akrion-sim/akrion-backend.rs	PUSHED	830e9aad		main			
+scaffold	akrion-sim/akrion-mcp-server.rs	PUSHED	09f0bedf		main			
+scaffold	akrion-sim/akrion-monorepo	PUSHED	a44b0814		main			
+scaffold	akrion-sim/akrion-sim-e2e	PUSHED	6226404b		main			
+scaffold	akrion-sim/akrion-sim-sync	PUSHED	a2d4f6db		main			
+scaffold	akrion-sim/akrion-web-server.rs	PUSHED	0b8b3db4		main			
+scaffold	athlet-o/athleto-backend.rs	PUSHED	63e02e63		main			
+scaffold	athlet-o/athleto-e2e	PUSHED	8100a44c		main			
+scaffold	athlet-o/athleto-infra	PUSHED	987fc245		main			
+scaffold	athlet-o/athleto-mcp-server.rs	PUSHED	46f3be17		main			
+scaffold	athlet-o/athleto-monorepo	PUSHED	95db6629		main			
+scaffold	athlet-o/athleto-sync	PUSHED	8bd9ad55		main			
+scaffold	canonical-cloud/canonical-cli	PUSHED	332e726c		main			
+scaffold	canonical-cloud/canonical-e2e	PUSHED	64b3087f		main			
+scaffold	canonical-cloud/canonical-infra	PUSHED	46e0eefb		main			
+scaffold	cliptown/cliptown-e2e	PUSHED	2b4ed195		main			
+scaffold	daedalus-fab/daedalus-api-server.rs	PUSHED	d8d1c644		main			
+scaffold	daedalus-fab/daedalus-fab-e2e	PUSHED	1d2d3d50		main			
+scaffold	daedalus-fab/daedalus-fab-mcp-server.rs	PUSHED	29f4cd53		main			
+scaffold	daedalus-fab/daedalus-infra	PUSHED	6913801e		main			
+scaffold	daedalus-fab/daedalus-sync	PUSHED	ac6eadaf		main			
+scaffold	daedalus-fab/daedalus-web-server.rs	PUSHED	ede5329b		main			
+scaffold	daedalus-fab/fabrication-server.rs	PUSHED	f7b60b52		main			
+scaffold	drone-mngr/drone-mngr-ctrl-server.rs	PUSHED	b717ee3a		main			
+scaffold	drone-mngr/drone-mngr-infra	PUSHED	7e882c76		main			
+scaffold	drone-mngr/drone-mngr-mcp-server.rs	PUSHED	4bd93fc0		main			
+scaffold	drone-mngr/drone-mngr-web-server.rs	PUSHED	f2c5506d		main			
+scaffold	drone-mngr/laser-ptr-ctrl-server.rs	PUSHED	903e349b		main			
+scaffold	ecma-d/ecmad-api-server.rs	PUSHED	468abd64		main			
+scaffold	ecma-d/ecmad-daemon.rs	PUSHED	c2d03504		main			
+scaffold	ecma-d/ecmad-e2e	PUSHED	5ebe1ca9		main			
+scaffold	ecma-d/ecmad-infra	PUSHED	6e14e5fe		main			
+scaffold	ecma-d/ecmad-sync	PUSHED	128b203c		main			
+scaffold	ecma-d/ecmad-web-server.rs	PUSHED	d96f1d3d		main			
+scaffold	file-tunnel/ftnl-mcp-server.rs	PUSHED	b9dd6780		main			
+scaffold	hypesiege/hypesiege-analytics.rs	PUSHED	a10ee622		main			
+scaffold	hypesiege/hypesiege-api-server.rs	PUSHED	163eab0e		main			
+scaffold	hypesiege/hypesiege-cli.rs	PUSHED	c0b3878e		main			
+scaffold	hypesiege/hypesiege-connectors	PUSHED	ee4b5bdf		main			
+scaffold	hypesiege/hypesiege-e2e	PUSHED	5e7e159e		main			
+scaffold	hypesiege/hypesiege-infra	PUSHED	b7034334		main			
+scaffold	hypesiege/hypesiege-mcp-server.rs	PUSHED	1cc1c967		main			
+scaffold	hypesiege/hypesiege-publishing-worker.rs	PUSHED	db520174		main			
+scaffold	hypesiege/hypesiege-scheduler.rs	PUSHED	1a8ebf83		main			
+scaffold	hypesiege/hypesiege-sync	PUSHED	0a8e1e40		main			
+scaffold	hypesiege/hypesiege-web-server.rs	PUSHED	993857c8		main			
+scaffold	memebank/mbk-api	PUSHED	5aa6ceee		master			
+scaffold	memebank/memebank-e2e	PUSHED	a0ae12b4		main			
+scaffold	messaging-intel/msgint-analytics	PUSHED	4b33167d		main			
+scaffold	messaging-intel/msgint-api-server.rs	PUSHED	675593da		main			
+scaffold	messaging-intel/msgint-connectors	PUSHED	1e477de9		main			
+scaffold	messaging-intel/msgint-e2e	PUSHED	9f1f57cf		main			
+scaffold	messaging-intel/msgint-mcp-server.rs	PUSHED	62414d03		main			
+scaffold	messaging-intel/msgint-sync	PUSHED	f515a6d4		main			
+scaffold	messaging-intel/msgint-web-server.rs	PUSHED	7c080348		main			
+scaffold	meta-agents-demo/metacog	PUSHED	8a82c0f6		main			
+scaffold	networking-components/ncc-dns-server	PUSHED	13112c21		main			
+scaffold	networking-components/ncc-e2e	PUSHED	b8e347cb		main			
+scaffold	networking-components/ncc-network-controller	PUSHED	13769c58		dev			
+scaffold	networking-components/ncc-observability	PUSHED	44e39b36		dev			
+scaffold	quaestor-ledger/quaestor-executor	PUSHED	7cf9d2d2		main			
+scaffold	quaestor-ledger/quaestor-infra	PUSHED	cf2a79ce		main			
+scaffold	quaestor-ledger/quaestor-ledger-mcp-server.rs	PUSHED	5b6dbbc5		main			
+scaffold	quaestor-ledger/quaestor-ledger-server.rs	PUSHED	f9400469		main			
+scaffold	quaestor-ledger/quaestor-ledger-sync	PUSHED	66b5a3fe		main			
+scaffold	quaestor-ledger/quaestor-monorepo	PUSHED	9075aa66		main			
+scaffold	quaestor-ledger/quaestor-web-server.rs	PUSHED	4f194d37		main			
+scaffold	rust-ssr-demos/axum-htmx-seaorm-supabase	PUSHED	e1d01e51		main			
+scaffold	rust-ssr-demos/axum-leptos-dioxus-unified-ssr	PUSHED	440b884b		main			
+scaffold	rust-ssr-demos/dioxus-ssr-crud-d3-supabase	PUSHED	3bf897aa		main			
+scaffold	rust-ssr-demos/leptos-dioxus-dual-ssr	PUSHED	fca93903		main			
+scaffold	rust-ssr-demos/leptos-ssr-crud-d3-supabase	PUSHED	9e60668a		main			
+scaffold	rust-ssr-demos/rust-ssr-e2e	PUSHED	6f20d80c		main			
+scaffold	rust-ssr-demos/rust-ssr-mcp-server.rs	PUSHED	df60b66e		main			
+scaffold	sagitta-stack/dart-server	PUSHED	83083cab		main			
+scaffold	sagitta-stack/sagitta-mcp-server.rs	PUSHED	fd2d8b80		main			
+scaffold	sagitta-stack/sagitta-monorepo	PUSHED	b0414e12		main			
+scaffold	scintilla-run/scintilla-app-rs	PUSHED	1eae4d9f		main			
+scaffold	scintilla-run/scintilla-backend.rs	PUSHED	f5d2d341		main			
+scaffold	scintilla-run/scintilla-mcp-server.rs	PUSHED	78e5fa87		main			
+scaffold	scintilla-run/scintilla-run-e2e	PUSHED	3b708a85		main			
+scaffold	scintilla-run/scintilla-run-infra	PUSHED	bee43621		main			
+scaffold	scintilla-run/scintilla-sync	PUSHED	89e3c8d0		main			
+scaffold	shared-auth/shared-auth-e2e	PUSHED	73568553		main			
+scaffold	shared-auth/shared-auth-infra	PUSHED	f17664fc		main			
+scaffold	shared-auth/shared-auth-mcp-server.rs	PUSHED	614f815e		main			
+scaffold	shared-auth/shared-auth-monorepo	PUSHED	04ecc1ff		main			
+scaffold	shared-auth/shared-auth-sync	PUSHED	988a00e8		main			
+scaffold	sonus-auris/sonus-auris-api-server.rs	PUSHED	ceacd5cb		main			
+scaffold	sonus-auris/sonus-auris-backend.rs	PUSHED	a65fb646		main			
+scaffold	sonus-auris/sonus-auris-e2e	PUSHED	1b6b8fae		main			
+scaffold	sonus-auris/sonus-auris-mcp-server.rs	PUSHED	4cca5b4d		main			
+scaffold	sonus-auris/sonus-auris-sync	PUSHED	1b2699f4		main			
+scaffold	sonus-auris/sonus-auris-web-server.rs	PUSHED	6e1eb132		main			
+scaffold	usa-acc/rest-api-backend.rs	PUSHED	a34fb63e		main			
+scaffold	usa-acc/usa-acc-mcp-server.rs	PUSHED	92d7f114		main			
+scaffold	usa-acc/usacc-monorepo	PUSHED	2f1c17f9		main			
+scaffold	voxletra/voxletra-e2e	PUSHED	b93e1126		main			
+scaffold	voxletra/voxletra-sync	PUSHED	33850a05		main			
+scaffold	voxletra/vxl-api-server.rs	PUSHED	092a8f97		main			
+scaffold	voxletra/vxl-infra	PUSHED	8421fbba		main			
+scaffold	voxletra/vxl-web-server.rs	PUSHED	a3be46bf		main			
+scaffold-memebank	memebank/mbk-ocr-api	PUSHED	792f4c4b		master			
+scaffold-memebank	memebank/mbk-rest-api	PUSHED	9b7261bf		master			
+recon	3FA-app/3FA-desktop.rs	MERGED-DISJOINT	3ca39ed0		agent-sync/20260823/local-main			
+recon	3FA-app/3fa-backend.rs	FAST-FORWARDED	bb470b4e		agent-sync/20260823/local-main			
+recon	3FA-app/3fa-client-ui.dart	ERROR					/git/ref/heads/main -> 404 { "message": "Not Found", "documentation_url": "https://docs.github.com/rest/git/refs#get-a-r	
+recon	3FA-app/3fa-web-server.rs	FAST-FORWARDED	3fded3a9		agent-sync/20260823/local-main			
+recon	StreemPilot/sp-cli	MERGED	da1b0ca5		agent-sync/20260823/local-main			
+recon	StreemPilot/sp-infra	MERGED	fc8e1f6b		agent-sync/20260823/local-main			
+recon	StreemPilot/sp-sync	MERGED	1d1c775c		agent-sync/20260823/local-main			
+recon	StreemPilot/sp-web-dioxus	FAST-FORWARDED	a2208969		agent-sync/20260823/local-main			
+recon	StreemPilot/sp-web-leptos	FF-PR		https://github.com/StreemPilot/sp-web-leptos/pull/11	agent-sync/20260823/local-main			
+recon	StreemPilot/sp-web-mash	MERGED	5dec8691		agent-sync/20260823/local-main			
+recon	StreemPilot/streempilot-api-server.rs	MERGED	15f066e9		agent-sync/20260823/local-main			
+recon	StreemPilot/streempilot-chat.rs	MERGED	2ae6e06c		agent-sync/20260823/local-main			
+recon	StreemPilot/streempilot-cli.rs	MERGED	ab556e6b		agent-sync/20260823/local-main			
+recon	StreemPilot/streempilot-media-router.rs	MERGED	efb65adc		agent-sync/20260823/local-main			
+recon	akrion-sim/akrion-backend.rs	MERGED	13bbdc72		agent-sync/20260823/local-main			
+recon	akrion-sim/akrion-mcp-server.rs	MERGED	69e9433e		agent-sync/20260823/local-main			
+recon	akrion-sim/akrion-monorepo	MERGED	191c3a27		agent-sync/20260823/local-main			
+recon	akrion-sim/akrion-sim-sync	MERGED	bdf9b5a3		agent-sync/20260823/local-main			
+recon	akrion-sim/akrion-web-server.rs	MERGED	875baba6		agent-sync/20260823/local-main			
+recon	anticaptrad/act-ai-server.ts	MERGED	7fd63361		agent-sync/20260823/local-main			
+recon	anticaptrad/act-api-server.rs	MERGED	6dbe50f7		agent-sync/20260823/local-main			
+recon	anticaptrad/act-cli	FAST-FORWARDED	13b16bfa		agent-sync/20260823/local-main			
+recon	anticaptrad/act-infra	MERGED	0940b2c5		agent-sync/20260823/local-main			
+recon	anticaptrad/act-mcp-server.rs	MERGED	6590a2fa		agent-sync/20260823/local-main			
+recon	anticaptrad/act-sync	MERGED	d27acb53		agent-sync/20260823/local-main			
+recon	anticaptrad/act-web-server.rs	MERGED	00fa39ee		agent-sync/20260823/local-main			
+recon	apostille-me/apme-api	MERGED	7922676a		agent-sync/20260823/local-main			
+recon	apostille-me/apme-cli	MERGE-TREE-MISMATCH			agent-sync/20260823/local-main			
+recon	apostille-me/apme-infra	MERGED	a594478f		agent-sync/20260823/local-main			
+recon	apostille-me/apme-sync	MERGE-TREE-MISMATCH			agent-sync/20260823/local-main			
+recon	apostille-me/apme-web-dioxus	MERGED	ccd12fb7		agent-sync/20260823/local-main			
+recon	apostille-me/apme-web-leptos	MERGED	77fedc0e		agent-sync/20260823/local-main			
+recon	apostille-me/apme-web-mash	MERGED	4e4633d7		agent-sync/20260823/local-main			
+recon	apostille-me/apostille-me-infra	FAST-FORWARDED	e2f9c8b7		agent-sync/20260823/local-main			
+recon	athlet-o/athleto-app-rs	MERGED	102ebbc2		agent-sync/20260823/local-main			
+recon	athlet-o/athleto-backend.rs	MERGED	bfa03d04		agent-sync/20260823/local-main			
+recon	athlet-o/athleto-infra	MERGED	7ecb22b9		agent-sync/20260823/local-main			
+recon	athlet-o/athleto-mcp-server.rs	MERGED	82835a52		agent-sync/20260823/local-main			
+recon	athlet-o/athleto-sync	MERGED	f36ac90e		agent-sync/20260823/local-main			
+recon	benefactor-cc/backend.rs	FAST-FORWARDED	0b118fde		agent-sync/20260823/local-main			
+recon	canonical-cloud/canonical-api-server.rs	MERGED	4e07b1b3		agent-sync/20260823/local-main			
+recon	canonical-cloud/canonical-cli	MERGED	41cf285b		agent-sync/20260823/local-main			
+recon	canonical-cloud/canonical-infra	MERGED	a2997e39		agent-sync/20260823/local-main			
+recon	canonical-cloud/canonical-marketing-site.web	FAST-FORWARDED	4217995b		agent-sync/20260823/local-main			
+recon	cliptown/cliptown-cli	PAUSED-BASE-MISMATCH						
+recon	cliptown/cliptown-infra	MERGED	ebfe12d4		agent-sync/20260823/local-main			
+recon	cliptown/cliptown-rust-backend.rs	MERGED	fd1e2723		agent-sync/20260823/local-main			
+recon	daedalus-fab/daedalus-api-server.rs	MERGED	aef9908f		agent-sync/20260823/local-main			
+recon	daedalus-fab/daedalus-cli	FAST-FORWARDED	acd510b6		agent-sync/20260823/local-main			
+recon	daedalus-fab/daedalus-fab-mcp-server.rs	MERGED	7a173ce8		agent-sync/20260823/local-main			
+recon	daedalus-fab/daedalus-infra	MERGED	6eb143e6		agent-sync/20260823/local-main			
+recon	daedalus-fab/daedalus-sync	MERGED	4c3ae606		agent-sync/20260823/local-main			
+recon	daedalus-fab/daedalus-web-server.rs	MERGED	27c02bde		agent-sync/20260823/local-main			
+recon	daedalus-fab/fabrication-server.rs	MERGED	b5617b5b		agent-sync/20260823/local-main			
+recon	drone-mngr/drone-mngr-ctrl-server.rs	MERGED	450b7ec7		agent-sync/20260823/local-main			
+recon	drone-mngr/drone-mngr-infra	MERGED	9168a5be		agent-sync/20260823/local-main			
+recon	drone-mngr/drone-mngr-web-server.rs	PAUSED-BASE-MISMATCH						
+recon	drone-mngr/laser-ptr-ctrl-infra	PAUSED-BASE-MISMATCH						
+recon	drone-mngr/laser-ptr-ctrl-mcp-server.rs	PAUSED-BASE-MISMATCH						
+recon	drone-mngr/laser-ptr-ctrl-server.rs	MERGED	b942c254		agent-sync/20260823/local-main			
+recon	drone-mngr/laser-ptr-ctrl-web-server.rs	PAUSED-BASE-MISMATCH						
+recon	embedded-alerts/eal-api	PAUSED-BASE-MISMATCH						
+recon	embedded-alerts/eal-cli	PAUSED-BASE-MISMATCH						
+recon	embedded-alerts/eal-dioxus-web	MERGED	fdb83ce9		agent-sync/20260823/local-main			
+recon	embedded-alerts/eal-infra	MERGED	a504b89d		agent-sync/20260823/local-main			
+recon	embedded-alerts/eal-leptos-web	MERGED	55b0c137		agent-sync/20260823/local-main			
+recon	embedded-alerts/eal-mash-web	MERGED	1acc89f5		agent-sync/20260823/local-main			
+recon	embedded-alerts/eal-sync	PAUSED-BASE-MISMATCH						
+recon	evento-globolo/evgl-api	MERGE-TREE-MISMATCH			agent-sync/20260823/local-main			
+recon	evento-globolo/evgl-cli	PAUSED-BASE-MISMATCH						
+recon	evento-globolo/evgl-dioxus-web	MERGE-TREE-MISMATCH			agent-sync/20260823/local-main			
+recon	evento-globolo/evgl-infra	MERGED	edfbba00		agent-sync/20260823/local-main			
+recon	evento-globolo/evgl-leptos-web	MERGE-TREE-MISMATCH			agent-sync/20260823/local-main			
+recon	evento-globolo/evgl-mash-web	PAUSED-BASE-MISMATCH						
+recon	evento-globolo/evgl-sync	MERGED	c27b0bf9		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-admin.rs	FAST-FORWARDED	555db18c		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-ai-agent-bridge.rs	FAST-FORWARDED	e37a8f4b		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-ai-agent-control-plane	FAST-FORWARDED	b45043d1		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-ai-agent-coordinator.rs	FAST-FORWARDED	fae96b56		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-ai-agent-manager.rs	FAST-FORWARDED	e73a8062		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-auth.rs	FAST-FORWARDED	1cda94ce		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-brain.rs	FAST-FORWARDED	bfe84db7		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-cli.rs	FAST-FORWARDED	d50ebf3e		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-clients	FAST-FORWARDED	79ef2b6c		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-cloud.github.io	FAST-FORWARDED	e96cc4d0		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-customer.rs	FAST-FORWARDED	8f55986f		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-e2e	FAST-FORWARDED	d9773977		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-edge	FAST-FORWARDED	37850623		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-infra	FAST-FORWARDED	71260cca		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-interfaces	FAST-FORWARDED	9b483dd3		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-lambda-service.rs	FAST-FORWARDED	abdde9ea		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-load-balance.rs	FAST-FORWARDED	879b53a7		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-marketing.web	FAST-FORWARDED	4dc80ea6		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-mcp-server.rs	FAST-FORWARDED	7addc0d5		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-memory	FAST-FORWARDED	a88b0f9c		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-memory.rs	FAST-FORWARDED	0fe5a29f		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-messaging	FAST-FORWARDED	e2a6da24		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-messaging.rs	FAST-FORWARDED	82173022		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-monorepo	FAST-FORWARDED	0bbbc4dd		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-node-sidecar.rs	FAST-FORWARDED	60f5bc77		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-node.rs	FAST-FORWARDED	f1990795		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-operations-control-plane	FAST-FORWARDED	1a2af029		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-payments.rs	FAST-FORWARDED	bdeeb279		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-routing.rs	FAST-FORWARDED	ca320ca2		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-sync	FAST-FORWARDED	ee996c20		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-telemetry.rs	FAST-FORWARDED	6873ef7c		agent-sync/20260823/local-main			
+recon	fiducia-cloud/fiducia-test-config	FAST-FORWARDED	517db1ab		agent-sync/20260823/local-main			
+recon	file-tunnel/ftnl-backend-api.rs	MERGED	1122ab54		agent-sync/20260823/local-main			
+recon	file-tunnel/ftnl-infra	FAST-FORWARDED	3bd93d2c		agent-sync/20260823/local-main			
+recon	file-tunnel/ftnl-web-server.rs	PAUSED-BASE-MISMATCH						
+recon	hacker-house-medellin/hhm-api	MERGED	9d8d83e4		agent-sync/20260823/local-main			
+recon	hacker-house-medellin/hhm-cli	PAUSED-BASE-MISMATCH						
+recon	hacker-house-medellin/hhm-dioxus-web	MERGED	3f4822b5		agent-sync/20260823/local-main			
+recon	hacker-house-medellin/hhm-infra	MERGED	d967db08		agent-sync/20260823/local-main			
+recon	hacker-house-medellin/hhm-leptos-web	MERGED	55305e6a		agent-sync/20260823/local-main			
+recon	hacker-house-medellin/hhm-mash-web	PAUSED-BASE-MISMATCH						
+recon	hacker-house-medellin/hhm-sync	MERGED	aef39352		agent-sync/20260823/local-main			
+recon	hypesiege/hypesiege-analytics.rs	MERGED	2de96afa		agent-sync/20260823/local-main			
+recon	hypesiege/hypesiege-api-server.rs	MERGED	20831c5f		agent-sync/20260823/local-main			
+recon	hypesiege/hypesiege-cli	FAST-FORWARDED	c82abb07		agent-sync/20260823/local-main			
+recon	hypesiege/hypesiege-cli.rs	PAUSED-BASE-MISMATCH						
+recon	hypesiege/hypesiege-connectors	MERGED	23590f48		agent-sync/20260823/local-main			
+recon	hypesiege/hypesiege-infra	MERGED	cea4da1f		agent-sync/20260823/local-main			
+recon	hypesiege/hypesiege-mcp-server.rs	PAUSED-BASE-MISMATCH						
+recon	hypesiege/hypesiege-monorepo	PAUSED-BASE-MISMATCH						
+recon	hypesiege/hypesiege-publishing-worker.rs	MERGED	7ce2b908		agent-sync/20260823/local-main			
+recon	hypesiege/hypesiege-scheduler.rs	MERGED	4bd64752		agent-sync/20260823/local-main			
+recon	hypesiege/hypesiege-sync	MERGED	5c4ff9cb		agent-sync/20260823/local-main			
+recon	hypesiege/hypesiege-web-server.rs	MERGED	20ce8174		agent-sync/20260823/local-main			
+recon	messaging-intel/msgint-analytics	MERGED	f5b51a0d		agent-sync/20260823/local-main			
+recon	messaging-intel/msgint-api-server.rs	PAUSED-BASE-MISMATCH						
+recon	messaging-intel/msgint-chrome-extension-app	PAUSED-BASE-MISMATCH						
+recon	messaging-intel/msgint-connectors	MERGED	79188d84		agent-sync/20260823/local-main			
+recon	messaging-intel/msgint-mcp-server.rs	MERGED	345ac586		agent-sync/20260823/local-main			
+recon	messaging-intel/msgint-sync	MERGED	81d88c92		agent-sync/20260823/local-main			
+recon	quaestor-ledger/quaestor-executor	MERGED	d27e988d		agent-sync/20260823/local-main			
+recon	quaestor-ledger/quaestor-ledger-e2e	MERGED	c517e060		agent-sync/20260823/local-main			
+recon	quaestor-ledger/quaestor-ledger-mcp-server.rs	MERGED	eabe78d2		agent-sync/20260823/local-main			
+recon	quaestor-ledger/quaestor-ledger-server.rs	MERGED	0aca2d8f		agent-sync/20260823/local-main			
+recon	quaestor-ledger/quaestor-web-server.rs	MERGED	d7b9d537		agent-sync/20260823/local-main			
+recon	scintilla-run/gleam-lambda-runner	FAST-FORWARDED	75c44bd1		agent-sync/20260823/local-main			
+recon	scintilla-run/scintilla-app-rs	PAUSED-BASE-MISMATCH						
+recon	scintilla-run/scintilla-backend.rs	PAUSED-BASE-MISMATCH						
+recon	scintilla-run/scintilla-mcp-server.rs	PAUSED-BASE-MISMATCH						
+recon	scintilla-run/scintilla-run-e2e	PAUSED-BASE-MISMATCH						
+recon	scintilla-run/scintilla-run-infra	PAUSED-BASE-MISMATCH						
+recon	scintilla-run/scintilla-sync	MERGED	32995c74		agent-sync/20260823/local-main			
+recon	scintilla-run/scintilla-ui.dart	PAUSED-BASE-MISMATCH						
+recon	shared-auth/shared-auth-nats-bridge.rs	FAST-FORWARDED	347d50a5		agent-sync/20260823/local-main			
+recon	shared-auth/shared-auth-sync	PAUSED-BASE-MISMATCH						
+recon	zed-pkg/zed-api-server.rs	FAST-FORWARDED	76b5d8a4		agent-sync/20260823/local-main			
+recon	zed-pkg/zed-e2e	FAST-FORWARDED	1255eb4a		agent-sync/20260823/local-main			
+recon	zed-pkg/zed-infra	FAST-FORWARDED	ace8b28d		agent-sync/20260823/local-main			
+recon	zed-pkg/zed-web-server.rs	FAST-FORWARDED	81e54f1c		agent-sync/20260823/local-main			
+recon-3way	StreemPilot/sp-infra	FIXED	e22b236d			.github/workflows/source-policy-lint.yml		
+recon-3way	apostille-me/apme-cli	MERGED-3WAY	51510ffe			.github/workflows/source-policy-lint.yml		
+recon-3way	apostille-me/apme-sync	MERGED-3WAY	99bd8b65			.github/workflows/source-policy-lint.yml		
+recon-3way	cliptown/cliptown-cli	MERGED-3WAY	09004c33			Cargo.lock		
+recon-3way	drone-mngr/drone-mngr-web-server.rs	MERGED-3WAY	78cbfa19			.github/workflows/source-policy-lint.yml		
+recon-3way	drone-mngr/laser-ptr-ctrl-infra	MERGED-3WAY	2aee3f55			.github/workflows/source-policy-lint.yml		
+recon-3way	drone-mngr/laser-ptr-ctrl-mcp-server.rs	MERGED-3WAY	18ee1ac4			.github/workflows/source-policy-lint.yml		
+recon-3way	drone-mngr/laser-ptr-ctrl-web-server.rs	MERGED-3WAY	1b5fa06c			.github/workflows/source-policy-lint.yml		
+recon-3way	embedded-alerts/eal-api	MERGED-3WAY	ca3e055b			.github/workflows/source-policy-lint.yml		
+recon-3way	embedded-alerts/eal-cli	MERGED-3WAY	74f6395f			.github/workflows/source-policy-lint.yml		
+recon-3way	embedded-alerts/eal-sync	MERGED-3WAY	12002d08			.github/workflows/source-policy-lint.yml		
+recon-3way	evento-globolo/evgl-api	MERGED-3WAY	b9397332					
+recon-3way	evento-globolo/evgl-cli	MERGED-3WAY	203a9b79			.github/workflows/source-policy-lint.yml		
+recon-3way	evento-globolo/evgl-dioxus-web	MERGED-3WAY	960c985a					
+recon-3way	evento-globolo/evgl-leptos-web	MERGED-3WAY	399f7eba					
+recon-3way	evento-globolo/evgl-mash-web	MERGED-3WAY	15cb5bd9			.github/workflows/source-policy-lint.yml		
+recon-3way	StreemPilot/sp-web-mash	FIXED	b02bc0e9			.github/workflows/source-policy-lint.yml		
+recon-3way	file-tunnel/ftnl-web-server.rs	MERGED-3WAY	3499f00c			.github/workflows/source-policy-lint.yml		
+recon-3way	hacker-house-medellin/hhm-cli	MERGED-3WAY	34a188a7			.github/workflows/source-policy-lint.yml		
+recon-3way	hacker-house-medellin/hhm-mash-web	MERGED-3WAY	d6f1ca79			.github/workflows/source-policy-lint.yml		
+recon-3way	hypesiege/hypesiege-cli.rs	MERGED-3WAY	2703ed30			.github/workflows/source-policy-lint.yml		
+recon-3way	hypesiege/hypesiege-mcp-server.rs	MERGED-3WAY	3b133819			.github/workflows/source-policy-lint.yml		
+recon-3way	hypesiege/hypesiege-monorepo	MERGED-3WAY	e316ef5d			.github/workflows/source-policy-lint.yml		
+recon-3way	messaging-intel/msgint-api-server.rs	MERGED-3WAY	e6adb5e0			.github/workflows/source-policy-lint.yml docs/self-report-browser-origin-cookie-boundary.md src/self_report_http.rs tests/self_report_http_contract.rs		
+recon-3way	messaging-intel/msgint-chrome-extension-app	NEEDS-MANUAL-MERGE					clash: Dockerfile,README.md	
+recon-3way	scintilla-run/scintilla-app-rs	ERROR					/git/trees -> 422 { "message": "tree.sha 2946224fb3a1bd84c0e39146b24f5f1ca8d69862 is not a valid blob", "documentation_u	
+recon-3way	scintilla-run/scintilla-backend.rs	ERROR					/git/trees -> 422 { "message": "tree.sha 2946224fb3a1bd84c0e39146b24f5f1ca8d69862 is not a valid blob", "documentation_u	
+recon-3way	scintilla-run/scintilla-mcp-server.rs	ERROR					/git/trees -> 422 { "message": "tree.sha 2946224fb3a1bd84c0e39146b24f5f1ca8d69862 is not a valid blob", "documentation_u	
+recon-3way	scintilla-run/scintilla-run-e2e	NEEDS-MANUAL-MERGE					clash: Dockerfile	
+recon-3way	scintilla-run/scintilla-run-infra	MERGED-3WAY	f9cbe29c			tools/flags-2-env		
+recon-3way	scintilla-run/scintilla-ui.dart	MERGED-3WAY	84000c92			.github/workflows/source-policy-lint.yml tools/flags-2-env		
+recon-3way	shared-auth/shared-auth-sync	MERGED-3WAY	bf577d74					
+recon-3way	oresoftware/3FA-desktop.rs	FAST-FORWARDED	4c57d720		agent-sync/20260823/local-main			
+recon-3way	oresoftware/3fa-backend.rs	FAST-FORWARDED	bb470b4e		agent-sync/20260823/local-main			
+recon-3way	ORESoftware/3fa-client-ui.dart	FAST-FORWARDED	d6ed6975		agent-sync/20260823/local-main			
+recon-3way	scintilla-run/scintilla-app-rs	MERGED-3WAY	71916259			tools/flags-2-env		
+recon-3way	scintilla-run/scintilla-backend.rs	MERGED-3WAY	98284847			docs/function-configuration.md src/event_sources.rs tools/flags-2-env		
+recon-3way	scintilla-run/scintilla-mcp-server.rs	MERGED-3WAY	acb0f425			tools/flags-2-env		
+recon-manual	messaging-intel/msgint-chrome-extension-app	MERGED-MANUAL	d7395a98			.github/workflows/ci.yml automation/config.mjs automation/floating-controls-smoke.mjs automation/public-site-panel-smoke.mjs automation/run-once.mjs dist/background.js dist/content.js dist/popup.js dist/sidepanel.js docs/reviewed-follow-up.md manifest.json package-lock.json package.json popup.html sidepanel.css sidepanel.html src/background.ts src/chrome-follow-up-adapter.ts src/chrome-follow-up-page-list.ts src/chrome-follow-up-page-thread.ts src/content.ts src/floating-controls.ts src/follow-up-api-parsers.ts src/follow-up-api-types.ts src/follow-up-api.ts src/follow-up-bridge.ts src/follow-up-panel.ts src/follow-up-sidepanel-execution.ts src/follow-up.ts src/follow_up_execution_v2.ts src/follow_up_executor.ts src/platforms.ts src/popup.ts src/provider-selector-common.ts src/provider-selector-packs.ts src/provider-selector-types.ts src/provider-selectors-colombiancupid.ts src/provider-selectors-instagram.ts src/provider-selectors-whatsapp.ts src/sidepanel.ts src/site-actions.ts test/background-message-boundary.test.mjs test/chrome-follow-up-adapter-contract.repo.test.mjs test/dating-platform-config.test.mjs test/dating-platforms.test.mjs test/floating-controls-source.test.mjs test/follow-up-api-client.repo.test.mjs test/follow-up-bridge.test.mjs test/follow-up-execution-v2.test.mjs test/follow-up-executor.test.mjs test/follow-up-review-ui.test.mjs test/follow-up-source-contract.test.mjs test/follow-up.test.mjs test/lifecycle-source-contract.test.mjs test/platform-registry.test.mjs test/provider-selector-packs.repo.test.mjs test/site-actions.test.mjs tool/audit-release.mjs		
+recon-manual	scintilla-run/scintilla-run-e2e	STILL-CLASHES						
+recon-manual	scintilla-run/scintilla-run-e2e	MERGED-3WAY+MANUAL	ccf3ec2c			.github/workflows/function-configuration-parity.yml .github/workflows/opto-sync-wrapper-e2e.yml .github/workflows/source-policy-lint.yml scripts/lint.mjs tests/conformance/manifest-rules.test.mjs tests/monorepo/submodule.test.mjs		
+branches	StreemPilot/streempilot-clients	OK						{"wip-snap-20260823/main":"created"}
+branches	apostille-me/apme-clients	COMMIT-MISMATCH						{}
+branches	canonical-cloud/canonical.cloud	OK						{"wip-snap-20260823/sync-legacy-mcp-pin-20260822":"created"}
+branches	dancing-dragons/.github	COMMIT-MISMATCH						{}
+branches	embedded-alerts/eal-clients	COMMIT-MISMATCH						{}
+branches	evento-globolo/evgl-clients	COMMIT-MISMATCH						{}
+branches	fiducia-cloud-test/kotlin-client-consumer	COMMIT-MISMATCH						{}
+branches	fiducia-cloud/fiducia-customer-ui.web	ERROR					/git/blobs -> 404 { "message": "Not Found", "documentation_url": "https://docs.github.com/rest/git/blobs#create-a-blob",	{}
+branches	hacker-house-medellin/hhm-clients	COMMIT-MISMATCH						{}
+branches	hypesiege/hypesiege-clients	OK						{"wip-snap-20260823/main":"created"}
+branches	led-dynamo/leddy-clients	COMMIT-MISMATCH						{}
+branches	messaging-intel/msgint-monorepo	COMMIT-MISMATCH						{}
+branches	netjet-chrome-extension/netjet-mono	OK						{"wip-snap-20260823/main":"created"}
+branches	ORESoftware/ai-agent-bridge.rs	OK						{"wip-snap-20260823/feat-den-1041-slack-run-modal-browser-coverage":"created"}
+branches	ORESoftware/next-loggers.ts	COMMIT-MISMATCH						{}
+branches	quaestor-ledger/quaestor-monorepo	OK						{"wip-snap-20260823/main":"created"}
+branches	scintilla-run/.github	COMMIT-MISMATCH						{}
+branches	shared-auth/shared-auth-clients	COMMIT-MISMATCH						{}
+branches	sonus-auris/sonus-auris-mcp-server.rs	OK						{"wip-snap-20260823/main":"created"}
+branches	sonus-auris/sonus-auris-monorepo	OK						{"wip-snap-20260823/main":"created"}
+branches	sonus-auris/sonus-auris-site.web	OK						{"wip-snap-20260823/recovered-case-align-agent-policy-20260822":"created"}
+branches	sonus-auris/sonus-auris.infra	OK						{"wip-snap-20260823/recovered-case-align-agent-policy-20260822":"created"}
+branches	sumanjs/sce-examples	OK						{"wip-snap-20260823/main":"created"}
+branches	the1mills/the1mills.github.io	ERROR					/git/blobs -> 404 { "message": "Not Found", "documentation_url": "https://docs.github.com/rest/git/blobs#create-a-blob",	{}
+branches	unreal-unity-poc/wasm	OK						{"wip-snap-20260823/main":"created"}
+branches	usa-acc/usa-acc-mcp-server.rs	COMMIT-MISMATCH						{}
+branches	voxletra/vxl-clients	OK						{"wip-snap-20260823/main":"created"}
+branches	zed-pkg/zed-cli	OK						{"feat/local-project-registry":"created"}
+branches	zed-pkg/zed-lib-core	OK						{"wip-snap-20260823/main":"created"}
+branches	opto-sync/opto-sync-clients	COMMIT-MISMATCH						{}
+branches	ORESoftware/soccer-sim-game-engine.rs	COMMIT-MISMATCH						{}
+branches	opto-sync/opto-sync-clients	COMMIT-MISMATCH						{}
+branches	apostille-me/apme-clients	OK						{"main":"diverged, clash on .gitignore — pushed as agent-sync/20260823/main","wip-snap-20260823/main":"created"}
+branches	dancing-dragons/.github	OK						{"main":"diverged, clash on .gitignore — pushed as agent-sync/20260823/main"}
+branches	embedded-alerts/eal-clients	OK						{"main":"diverged, clash on .gitignore — pushed as agent-sync/20260823/main","wip-snap-20260823/main":"created"}
+branches	evento-globolo/evgl-clients	OK						{"main":"diverged, clash on .gitignore — pushed as agent-sync/20260823/main","wip-snap-20260823/main":"created"}
+branches	fiducia-cloud-test/kotlin-client-consumer	OK						{"main":"diverged, clash on .gitignore — pushed as agent-sync/20260823/main","wip-snap-20260823/main":"created"}
+branches	fiducia-cloud/fiducia-customer-ui.web	ERROR					/git/blobs -> 404 { "message": "Not Found", "documentation_url": "https://docs.github.com/rest/git/blobs#create-a-blob",	{}
+branches	hacker-house-medellin/hhm-clients	OK						{"main":"diverged, clash on .gitignore — pushed as agent-sync/20260823/main","wip-snap-20260823/main":"created"}
+branches	led-dynamo/leddy-clients	OK						{"main":"diverged, clash on .gitignore — pushed as agent-sync/20260823/main","wip-snap-20260823/main":"created"}
+branches	messaging-intel/msgint-monorepo	OK						{"main":"diverged, clash on .gitignore — pushed as agent-sync/20260823/main"}
+branches	ORESoftware/next-loggers.ts	OK						{"main":"diverged, clash on .cli-flags.toml,README.md,docs/otel.md,sdk/dart/README.md,sdk/dart/lib/next_loggers.dart,sdk/dart/test/conformance.dart,sdk/elixir/README.md,sdk/elixir/lib/next_loggers.ex,sdk/erlang/README.md,sdk/erlang/src/next_loggers.erl,sdk/erlang/test/next_loggers_tests.erl,sdk/gleam/README.md,sdk/gleam/src/oresoftware_next_loggers.gleam,sdk/gleam/test/oresoftware_next_loggers_test.gleam,sdk/go/README.md,sdk/go/logger.go,sdk/go/logger_test.go,sdk/java/README.md,sdk/java/src/main/java/cloud/oresoftware/nextloggers/NextLoggers.java,sdk/java/src/test/java/cloud/oresoftware/nextloggers/NextLoggersTest.java,sdk/python/README.md,sdk/python/pyproject.toml,sdk/python/src/next_loggers/__init__.py,sdk/python/tests/test_conformance.py,sdk/ruby/README.md,sdk/ruby/lib/oresoftware/next_loggers.rb,sdk/ruby/test/next_loggers_test.rb,sdk/rust/README.md,sdk/rust/src/lib.rs,sdk/rust/tests/conformance.rs,sdk/wasm/README.md,sdk/wasm/src/lib.rs,src/base-logger.ts,src/otel.ts,tests/event-api.test.mjs,tests/otel.test.mjs — pushed as agent-sync/20260823/main","wip-snap-20260823/main":"created"}
+branches	scintilla-run/.github	OK						{"main":"diverged, clash on .github/PULL_REQUEST_TEMPLATE.md,.github/pull_request_template.md,.gitignore,AGENTS.md,agents.md,docs/DESKTOP_APPLICATIONS.md — pushed as agent-sync/20260823/main","wip-snap-20260823/main":"created"}
+branches	shared-auth/shared-auth-clients	OK						{"main":"diverged, clash on .gitignore — pushed as agent-sync/20260823/main","wip-snap-20260823/main":"created"}
+branches	the1mills/the1mills.github.io	ERROR					/git/blobs -> 404 { "message": "Not Found", "documentation_url": "https://docs.github.com/rest/git/blobs#create-a-blob",	{}
+branches	ORESoftware/soccer-sim-game-engine.rs	OK						{"learning":"fast-forwarded"}
+branches	opto-sync/opto-sync-clients	OK						{"agent-sync/20260823/wip-snapshot-20260807/main":"created","agent-sync/20260823/wip-snapshot-20260807/wip-snap-20260823-main":"created"}
+gitignore-merge	apostille-me/apme-clients	MERGED-GITIGNORE	259b29a3					
+gitignore-merge	dancing-dragons/.github	MERGED-GITIGNORE	f25d40c5					
+gitignore-merge	embedded-alerts/eal-clients	MERGED-GITIGNORE	0b9ac951					
+gitignore-merge	evento-globolo/evgl-clients	MERGED-GITIGNORE	f46cba0d					
+gitignore-merge	fiducia-cloud-test/kotlin-client-consumer	MERGED-GITIGNORE	d256dc08					
+gitignore-merge	hacker-house-medellin/hhm-clients	MERGED-GITIGNORE	d27f0055					
+gitignore-merge	led-dynamo/leddy-clients	MERGED-GITIGNORE	fd238209					
+gitignore-merge	messaging-intel/msgint-monorepo	MERGED-GITIGNORE	4ae3edd8					
+gitignore-merge	shared-auth/shared-auth-clients	MERGED-GITIGNORE	7aab653a					
